@@ -8,7 +8,7 @@ Analysing and predicting Airline-delay for airlines for projecting whether a giv
 This issue is important for me as iam a victim of flight delays and understanding the Airlines-Delay dataset and developing a multiclass classifier to classify and predict future delays is really important in todays world.
 
 ## What questions do you have in mind and would like to answer?
-
+Updated from draft proposal
 - When is the best day of the week to fly to minimise delays?
 - Most Popular Destination with Average Arrival Delays?
 - Is there a better day to travel?
