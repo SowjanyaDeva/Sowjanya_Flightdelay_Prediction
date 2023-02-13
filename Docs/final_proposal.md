@@ -10,9 +10,9 @@ This issue is important for me as iam a victim of flight delays and understandin
 ## What questions do you have in mind and would like to answer?
 
 - When is the best day of the week to fly to minimise delays?
--Most Popular Destination with Average Arrival Delays?
--Is there a better day to travel?
--Total Minutes Delayed by Airline?
+- Most Popular Destination with Average Arrival Delays?
+- Is there a better day to travel?
+- Total Minutes Delayed by Airline?
 
 ## Where do you get the data to analyze and help answer your questions?
 
