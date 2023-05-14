@@ -28,8 +28,8 @@ Develop a  business model to predict flight delays. Reduce further economic loss
  - Merging the cleaned data sets 
  # Exploratory Data Analysis
  <img width="1010" alt="image" src="https://github.com/SowjanyaDeva/Sowjanya_Deva_Data_606/assets/103344156/ba12125d-9cbb-4c4f-bee4-ea075ba181e9">
-- The above EDA is to show routies per carrier 
-- <img width="1010" alt="image" src="https://github.com/SowjanyaDeva/Sowjanya_Deva_Data_606/assets/103344156/ebf48f2f-2084-4a0f-914a-47a7d92b37a0">
+The above EDA is to show routies per carrier 
+ <img width="1010" alt="image" src="https://github.com/SowjanyaDeva/Sowjanya_Deva_Data_606/assets/103344156/ebf48f2f-2084-4a0f-914a-47a7d92b37a0">
 - The above EDA is to check the average  Arrival delay per week
 - <img width="1016" alt="image" src="https://github.com/SowjanyaDeva/Sowjanya_Deva_Data_606/assets/103344156/30068076-bdee-489d-a099-816103663db6">
 - The above EDA is to check the Average Departure Delay 
