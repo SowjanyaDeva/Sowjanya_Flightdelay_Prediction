@@ -89,6 +89,8 @@ For my analysis Decision Tree gives best Accuracy.
 - Passengers can benefit from the ability to plan their journeys better, make alternate arrangements, or be informed about potential delays in advance.
 - Further advancements in data analytics, machine learning, and real-time data integration can enhance the accuracy and reliability of flight delay prediction models.
 - By leveraging predictive models and technologies, the aviation industry can work towards minimizing the occurrence and impact of flight delays, ultimately leading to smoother travel experiences for all stakeholders.
+# Presentation
+https://github.com/SowjanyaDeva/Sowjanya_Deva_Data_606/blob/main/Docs/Flight%20Delay%20prediction_606.pptx
 
 
 
