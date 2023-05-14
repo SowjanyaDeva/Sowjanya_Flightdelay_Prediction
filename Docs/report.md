@@ -78,7 +78,8 @@ Gradient boosting is a machine learning technique used in regression and classif
 - Recall: 0.96528
 # Comparison of Models
 <img width="1016" alt="image" src="https://github.com/SowjanyaDeva/Sowjanya_Deva_Data_606/assets/103344156/4802017d-6f69-4af7-8766-93dde7ec7d46">
-For my analysis Decision Tree gives best Accuracy 
+For my analysis Decision Tree gives best Accuracy.
+
 # Conclusion 
 - Flight delay prediction is a valuable tool for airlines, passengers, and airports to minimize disruptions and enhance operational efficiency.
 - Accurate predictions can help airlines optimize their resources, reduce costs, and improve customer satisfaction.
