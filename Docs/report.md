@@ -46,6 +46,7 @@ The above EDA is to check the average  Arrival delay per week
  - Most Popular Destination with Average Arrival Delays?
  <img width="1016" alt="image" src="https://github.com/SowjanyaDeva/Sowjanya_Deva_Data_606/assets/103344156/7f9ab8c3-2675-4fea-b845-087a3dffff30">
 The dashed line that you see on the plot corresponds to the average delay on arrival of the top 30 destinations. It is interesting to see how Atlanta, having such a high the number of landings, has a very low average delay with just over 10 minutes, whereas Newark, a not so popular destination, has such a high minute average delay. San Francisco is another destination that stands out with a high average delay as well as Orlando and New York.
+
 - Is there a better day to travel?
  <img width="1016" alt="image" src="https://github.com/SowjanyaDeva/Sowjanya_Deva_Data_606/assets/103344156/44c9c6a7-7d29-45f6-b97d-a23d09950ba4">
 It seesms like Last day of the month and middle of the month are the best days to travel.
