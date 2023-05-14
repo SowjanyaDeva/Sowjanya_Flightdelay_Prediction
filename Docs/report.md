@@ -42,7 +42,8 @@ The above EDA is to check the average  Arrival delay per week
 # Questions
  When is the best day of the week to fly to minimise delays?
  <img width="1016" alt="image" src="https://github.com/SowjanyaDeva/Sowjanya_Deva_Data_606/assets/103344156/f234544a-0a3b-4a6d-9d71-1c7124bb46eb">
- From the above analysis Saturday is the best day to fly
+ From the above analysis Saturday is the best day to fly.
+ Most Popular Destination with Average Arrival Delays?
  <img width="1016" alt="image" src="https://github.com/SowjanyaDeva/Sowjanya_Deva_Data_606/assets/103344156/7f9ab8c3-2675-4fea-b845-087a3dffff30">
 The dashed line that you see on the plot corresponds to the average delay on arrival of the top 30 destinations. It is interesting to see how Atlanta, having such a high the number of landings, has a very low average delay with just over 10 minutes, whereas Newark, a not so popular destination, has such a high minute average delay. San Francisco is another destination that stands out with a high average delay as well as Orlando and New York
  Is there a better day to travel?
