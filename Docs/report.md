@@ -18,15 +18,15 @@ Develop a  business model to predict flight delays. Reduce further economic loss
 - The prediction model should consider various variables such as departure/arrival time, airline, aircraft type, route, and external factors like weather conditions.
 - The goal is to provide timely and actionable information to airlines, passengers, and airport authorities to mitigate the impact of delays and improve overall travel experience.
 # Data 
- - Dataset reference: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7
- - Ihave used 4 datasets for my analysis 
- - Airport dataset,carrier dataset,Air plane dataset and 2006 flight data 
- - Data cleaning and handeling is done on each dataseta and merged them accordingly 
- # Data cleaning
- - Checking for NULL values and droping the columns which are not useful for our analysis 
- - Removing redunet values 
- - Merging the cleaned data sets 
- # Exploratory Data Analysis
+- Dataset reference: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7
+- Ihave used 4 datasets for my analysis 
+- Airport dataset,carrier dataset,Air plane dataset and 2006 flight data 
+- Data cleaning and handeling is done on each dataseta and merged them accordingly 
+# Data cleaning
+- Checking for NULL values and droping the columns which are not useful for our analysis 
+- Removing redunet values 
+- Merging the cleaned data sets 
+# Exploratory Data Analysis
  <img width="1010" alt="image" src="https://github.com/SowjanyaDeva/Sowjanya_Deva_Data_606/assets/103344156/ba12125d-9cbb-4c4f-bee4-ea075ba181e9">
 The above EDA is to show routies per carrier 
  <img width="1010" alt="image" src="https://github.com/SowjanyaDeva/Sowjanya_Deva_Data_606/assets/103344156/ebf48f2f-2084-4a0f-914a-47a7d92b37a0">
@@ -52,7 +52,7 @@ The dashed line that you see on the plot corresponds to the average delay on arr
 - Decision Tree
 - Random Forest
 - RadientBoostingClassifier
- # Decision Tree
+# Decision Tree
 A decision tree is a non-parametric supervised learning algorithm, which is utilized for both classification and regression tasks. It has a hierarchical, tree structure, which consists of a root node, branches, internal nodes and leaf nodes.
 - The accuracy of this model is as follows
 - Prediction: 0.99938
