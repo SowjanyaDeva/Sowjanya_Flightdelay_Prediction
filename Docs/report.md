@@ -24,7 +24,7 @@ Develop a  business model to predict flight delays. Reduce further economic loss
 - Data cleaning and handeling is done on each dataseta and merged them accordingly 
 # Data cleaning
 - Checking for NULL values and droping the columns which are not useful for our analysis 
-- Removing redunet values 
+- Removing redundant values 
 - Merging the cleaned data sets 
 # Exploratory Data Analysis
  <img width="1010" alt="image" src="https://github.com/SowjanyaDeva/Sowjanya_Deva_Data_606/assets/103344156/ba12125d-9cbb-4c4f-bee4-ea075ba181e9">
@@ -52,7 +52,7 @@ The dashed line that you see on the plot corresponds to the average delay on arr
 It seesms like Last day of the month and middle of the month are the best days to travel.
 
 # Prediction Modeling
-- I have used three classification models 
+- I have used three models 
 - Decision Tree
 - Random Forest
 - RadientBoostingClassifier
